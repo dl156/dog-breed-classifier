@@ -1,5 +1,5 @@
-# dog-classfier
-# dog-classfier
+# Dog Breed Classifier
+
 pip install -U kaggle-cli
 
 kg config -u myuser -p mypassword -c dog-breed-identification
